@@ -19,7 +19,7 @@
                     <Flyout Placement="Top">
                         <Grid>
                             <TextBlock TextWrapping="Wrap" Margin="2"> 在此版本中，我们会自动获取您的用户名，<LineBreak/>
-                                即可一键登录清华邮箱。
+                                即可一键登录清华邮箱,THX!。
                             </TextBlock>
                         </Grid>
                     </Flyout>
